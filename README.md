@@ -1,4 +1,7 @@
 # Medical premium insurance price prediction
+## Purpose: 
+This dashboard is designed to provide a comprehensive overview of various health-related metrics and their correlations within a population of 986 individuals. It offers insights into demographics, health conditions, and insurance premium prices based on specific criteria like age, weight, height,history of cancer in family,any known allergies,diabetes and chronic diseases.
+## Key Sections and Insights:
 ### Total Population:
 The dashboard begins with a simple count of the total number of people, which is 986. This serves as the base population for all subsequent analyses.
 ### People's Height Range:
